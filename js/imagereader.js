@@ -6,7 +6,7 @@
 var folder = "../img/";
 
 $(document).ready(function () {
-    var fileExt = {},
+    var fileExt = {};
     fileExt[0]=".png",
     fileExt[1]=".jpg",
     fileExt[2]=".gif";
