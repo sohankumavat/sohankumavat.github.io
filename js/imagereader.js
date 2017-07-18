@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-var folder = "https://github.com/sohankumavat/sohankumavat.github.io/tree/master/img/";
+var folder = "../img/";
 
 $(document).ready(function () {
     $.ajax({
